@@ -4,7 +4,7 @@
 
 📧 aaradhana.valva@gmail.com  
 📞 +91 9313853911  
-🔗 LinkedIn: [Add LinkedIn Profile URL]
+🔗 LinkedIn: https://www.linkedin.com/in/aradhana-valva-2205a8134/
 
 ---
 
@@ -18,7 +18,7 @@ Experienced in leading teams, collaborating with international clients, establis
 
 ## 🛠️ Technical Skills
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Scss
 - **Frontend:** React.js, Next.js, Angular, AngularJS, Express.js, jQuery
 - **Backend:** Node.js, PHP, Laravel
 - **Database:** MySQL, MongoDB
